@@ -1,2 +1,2 @@
 # QTracking
-./TrackingApp ../data/DY-mc.root ../*
+./TrackingApp ../data/data_*
